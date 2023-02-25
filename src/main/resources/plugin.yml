@@ -1,0 +1,6 @@
+name: Armazem
+version: '${project.version}'
+main: com.ag.armazem.Armazem
+api-version: 1.19
+authors: [ arcaya, knowz ]
+description: Plugin development by Arcaya and knowz
